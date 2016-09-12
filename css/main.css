@@ -20,7 +20,7 @@
 /*header*/
 /*semilla*/
 .semilla{
-
+width: 100%;
 }
 
 .gris{
@@ -216,4 +216,51 @@ h3{
 	margin: 4%;
 }
 
+.blog h1{
+	font-size: 22px;
+}
 
+.blog h3{
+	color:#0E0E0E;
+	float-left: 0%;
+	padding: 0%;
+}
+.blog p{
+	color:#0E0D0D;
+}
+
+.gris{
+	background: #575050;
+	padding: 4%;
+}
+
+.redes{
+	border:1px solid #FFFFFF;
+	height: 200px;
+}
+
+.face{
+	width: 20%;
+}
+
+.redes p{
+	font-family: "OpenSans-Bold";
+	color: #FFFFFF;
+}
+
+footer{
+	padding: 4% 6%;
+}
+
+.laboratoria{
+	color: #DA9B22;
+}
+
+.contacto{
+	font-family: "OpenSans-Bold";
+	text-align: right;
+}
+
+.fono{
+	text-align: right;
+}
