@@ -1,0 +1,219 @@
+/* Inserta tu codigo aqui */
+/* header*/
+.logo{
+	width: 35%;
+}
+
+.indice ul li{
+	float: left;
+	text-align: center;
+	padding: 2%;
+	margin-top:3%;
+}
+
+.indice ul li a{
+	color:#B9AFAF;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: "OpenSans-Bold";
+}
+/*header*/
+/*semilla*/
+.semilla{
+
+}
+
+.gris{
+	background: #D9D7D7;
+}
+
+.gris p{
+	padding: 6%;
+	text-align:center;
+	color:#8D8686;
+	font-family: "OpenSans-Regular";
+	font-size: 14px;
+}
+/*semilla*/
+/*mision*/
+.mision{
+	width: 30%;
+	padding-top: 10%;
+}
+
+.texto p{
+	text-align: center;
+	font-family: "OpenSans-Light";
+	color: #A49C9C;	
+	padding: 10%;
+}
+/*mision*/
+/*metodo*/
+.metodo{
+	background: url(../img/fondo.jpg);
+	padding: 6% 0%;
+}
+
+.metodo div h2{
+	color:#fff;
+	font-family: "OpenSans-Light";
+}
+
+.metodologia{
+	width: 9%;
+	padding-bottom: 10%;
+}
+
+.metodo p{
+	padding: 5%;	
+	text-align: center;
+	color:#fff;
+	font-family: "OpenSans-Light";
+}
+/*metodo*/
+/*servicio*/
+#servicios{
+	padding: 10%;
+}
+
+.parrafo{
+	padding: 5%;
+	text-align: center;
+	color:#594D4D;
+}
+
+h2{
+	color:#242222;
+	text-align: center;
+	font-family:"OpenSans-Bold"; 
+	font-size:20px;
+}
+
+h3{
+	font-family: "OpenSans-Bold";
+	font-size: 16px;
+	text-align: center;
+	padding: 3% 6%;
+	color: #538F6A;
+}
+
+.textos{
+	margin: 4%;
+}
+
+.textos p{
+	color:#594D4D;
+	text-align: center;
+	padding: 4% 3%;
+}
+/*servicio*/
+/*proyecto*/
+#proyectos{
+	background: #5AA255;
+	padding: 5%;
+}
+.proyecto{
+	margin: 2% 0%;
+}
+.texto-proyecto{
+	padding: 1% 5%;
+}
+
+.texto-proyecto h1{
+	color:#FFFFFF;
+
+	font-family: "OpenSans-Bold";
+	font-size: 18px;
+}
+
+.texto-proyecto h2{
+	color: #fff;
+	padding: 2% 0%;
+	text-align: left;
+	font-family: "OpenSans-Regular";
+	font-size: 14px;	
+}
+
+.texto-proyecto p{
+	color: #fff;
+
+}
+
+.titulo-proyecto{
+	color:#FFFFFF ;
+	margin-left: 55%;
+	font-size: 24px;
+	padding-bottom: 2%;
+	font-family: "OpenSans-Bold";
+}
+
+/*proyecto*/
+/*equipo*/
+
+#equipos{
+	padding: 10%;
+}
+
+.titulo-equipo{
+	margin-left: 57%;
+	font-size: 28px;
+	font-family: "OpenSans-Bold";
+	color:#315930;
+}
+
+.equipos{
+	border-radius: 150px;
+	width: 300px;
+	height: 300px;
+}
+
+.equipo{
+	margin: 4%;
+}
+
+.equipo h2{
+	padding: 4%;
+
+
+}
+
+.equipo h4{
+	text-align: center;
+}
+
+.equipo p{
+	text-align: center;
+	padding: 3%
+}
+
+.social{
+	width: 50%;
+	margin: 2%;
+}
+/*equipo*/
+/*blog*/
+#blog{
+	background: url(../img/fondo2.jpg);
+}
+
+.blog-titulo{
+	margin-left: 40%;
+	padding: 3%;
+	font-size: 30px;
+	font-family: "OpenSans-Bold";
+}
+
+.slider{
+	width: 30%;
+}
+
+.play{
+	margin-top:9%;
+	margin-left: ;
+}
+
+.blog{
+	margin: 4%;
+}
+
+
